@@ -1,0 +1,6 @@
+transaction_id,transaction_date,buyer_name,item_name,quantity,item_amount
+DEMO-EP-0001,2026-01-01,Khach le,Ve xem phim - Suat 19h00,2,"180,000"
+DEMO-EP-0001,2026-01-01,Khach le,Bap nuoc combo,1,"65,000"
+DEMO-EP-0002,2026-01-01,Khach le,Ve xem phim - Suat 21h00,1,"90,000"
+DEMO-EP-0003,2026-01-01,Khach le,Ve xem phim - Suat 20h00,3,"270,000"
+DEMO-EP-0003,2026-01-01,Khach le,Bap nuoc combo,2,"130,000"

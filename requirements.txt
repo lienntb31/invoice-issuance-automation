@@ -1,0 +1,9 @@
+pandas>=2.0
+numpy>=1.24
+openpyxl>=3.1
+paramiko>=3.4
+gspread>=6.0
+gspread-dataframe>=3.3
+keyring>=24.0
+python-dotenv>=1.0
+pytest>=8.0

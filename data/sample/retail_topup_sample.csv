@@ -1,0 +1,5 @@
+transaction_id,transaction_date,buyer_name,buyer_tax_id,topup_amount
+DEMO-RT-0001,2026-01-01,Demo Retail Agent 001,0100000001,"110,000"
+DEMO-RT-0002,2026-01-01,Demo Retail Agent 002,0100000002,"55,000"
+DEMO-RT-0003,2026-01-01,Demo Retail Agent 003,,"220,000"
+DEMO-RT-0004,2026-01-01,Demo Retail Agent 001,0100000001,"33,000"

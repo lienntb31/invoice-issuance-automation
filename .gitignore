@@ -1,0 +1,30 @@
+# Original production notebooks/scripts — contain real company data, must never be committed
+*.ipynb
+recon_hilo_vs_spp.py
+
+# Claude Code session directory
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Secrets / local config
+.env
+*.json
+!package.json
+credentials/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime output
+output/
+downloads/
+*.log

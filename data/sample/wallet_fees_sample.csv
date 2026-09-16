@@ -1,0 +1,6 @@
+transaction_id,transaction_date,buyer_name,buyer_tax_id,fee_amount
+DEMO-WF-0001,2026-01-01,Nguyen Van A,,"11,000"
+DEMO-WF-0002,2026-01-01,Tran Thi B,,"22,000"
+DEMO-WF-0003,2026-01-01,Le Van C,,"5,500"
+DEMO-WF-0004,2026-01-01,Pham Thi D,,"33,000"
+DEMO-WF-0005,2026-01-01,Hoang Van E,,"11,000"
